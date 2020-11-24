@@ -1,0 +1,7 @@
+CONCEPTOS MODULO 2
+
+	* Variables = Son ojetos de programacion a los cuales se les asigna un nombre y un valor (hay diferentes tipos de datos), y se pueden utilizar mas adeltante.
+	* Strings = Es un tipo de datos, estos son texto o caracteres
+	* Funciones (argumentos, `return`) = Es una agrupacion de codigos que se puede ejectuar sin necesidad de reescribirlos todos nuevamente, si no invocando la funcion, la cual debe devolver algun dato despues de ejecutar todas sus operaciones(return).  A estas funciones se le asignan argumentos, los cuales son las variables o valores que utilizaran en sus operaciones.
+	* Declaraciones `if` = Es un condicional, permite crear un control de flujo en funcion de las condiciones que se presentan al ejecutar un codigo. Es decir permite tomar diferentes caminos logicos en funcion de los resultados que se van obteniendo a medida que se ejecuta el codigo.
+	* Valores booleanos (`true`, `false`) = Es otro tipo de dato que puede tomar solo dos opciones, verdadero y falso. Es similar al lenguaje binario donde solo se usan 0 y 1.
