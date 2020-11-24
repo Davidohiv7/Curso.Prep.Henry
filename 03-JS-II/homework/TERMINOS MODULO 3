@@ -1,0 +1,5 @@
+TERMINOS MODULO 3
+for = es un codigo que permite ejecutar una accion repetitiva con un aumento programado en el valor de la vairable evaluada hasta una condicion final que detenga el bucle (es importante poner esta condicion final o el bucle no se detendra nunca)
+&& = Es el operador logico AND, e indica que se deben cumplir dos o mas condiciones para que se ejecute una determinada accion
+|| = Es el operador logico OR, e indica que se debe cumplir una o todas las condiciones para que se ejecute determinada accion
+! = Es el operador NOT, y al agregarlo a algo niega o se obtiene el resultado inverso.
