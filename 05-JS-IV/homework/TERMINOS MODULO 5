@@ -1,0 +1,13 @@
+TERMINOS MODULO 5
+
+
+- Propiedades:Un objeto es una asociación de propiedades. Todo en javascript son objetos (arrays, funciones). Sirven para modelar algo asignándole propiedades especificas y valores puntuales a estas
+
+- Métodos: Es una asociación entre un nombre (clave) y un valor, es decir es la propiedad especifica del objeto y el valor que esta toma
+
+- Bucle `for…in`: Debido a que en los objetos los indices no siempre son numerosos, el bucle for o while no funciona correctamente. Es un bucle especial que permite iterar todas las claves del objeto.
+
+- Notación de puntos: Esta notación es mas dinamica, aunque mas larga de escribir. En ese si asignamos una propiedad a una variable x, y luego invocamos la propiedad del objeto a través de la variable esta notación la letra correctamente.
+
+
+- Notación de corchetes: Esta notación es mas sencilla de digital, Pero lee las cosas literalmente, es decir que si asignamos una propiedad a una variable x, y luego invocamos la propiedad del objeto a través de la variable esta notación nos mira que no esta definida.SE USA PARA NUMEROS Y CADENAS
