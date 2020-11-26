@@ -1,0 +1,6 @@
+TERMINOS MODULO 6
+
+
+Prototype: Un prototipo es un objeto inicial a partir del cual se puede crear otro objeto con propiedades similares, los cuales esta entrelazados. Lo anterior hace referencia a que un objeto puede acceder a métodos que no están almacenados en el, si no en su prototipo. El interprete revisara siempre el objeto, en caso de no encontrar lo solicitado buscara en el prototipo
+
+_Constructor_ (de Clases): Cuando se necesitan crear objetos con propiedades iguales (pero valores diferentes) se puede crear una clase, la cual es una especie de plantilla para crear objetos con propiedades predeterminadas. Utilizando new, se puede crear objetos a partir de una clase de objetos creada previamente
